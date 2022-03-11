@@ -3,4 +3,8 @@ The notebooks contain an implementation of 5 machine learning classification alg
 2 datasets are taken from kaggle.
 
 The list of implemented algorithms is
-- log reg
+- logistic regression
+- k-Nearest Neighbors
+- support vector machine (SVM)
+- decision tree
+- random forest
