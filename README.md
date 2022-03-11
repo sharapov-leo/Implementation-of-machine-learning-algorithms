@@ -1,4 +1,4 @@
-# implementation-of-machine-learning-algorithms
+# Implementation of machine learning algorithms
 
 The notebooks contain an implementation of 5 machine learning classification algorithms and their evaluation.
 
